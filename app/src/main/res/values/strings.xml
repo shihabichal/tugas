@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">examplelogin</string>
+    <string name="login">LOGIN</string>
+    <string name="logo">logo</string>
+    <string name="Logino">Login</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="identitasnama">Moh.Shihab Ichal Saxena Setyawan</string>
+    <string name="identitasnpm">06.2017.1.06758</string>
+    <string name="identitasjurusan">Teknik Informatika</string>
+</resources>
